@@ -1,0 +1,27 @@
+{
+    "rooms": [
+        {
+            "numLightBulbs": 20,
+            "appliances": [
+                {
+                    "energyUsage": 30,
+                    "name": "tv"
+                },
+                {
+                    "energyUsage": 5,
+                    "name": "lamp"
+                }
+            ],
+            "roomName": "living room"
+        },
+        {
+            "numLightBulbs": 2,
+            "appliances": [{
+                "energyUsage": 50,
+                "name": "heater "
+            }],
+            "roomName": "bedroom"
+        }
+    ],
+    "homeName": "my home"
+}

@@ -1,0 +1,15 @@
+{
+  "rooms": [
+    {
+      "numLightBulbs": 0,
+      "appliances": [],
+      "roomName": "needle"
+    },
+    {
+      "numLightBulbs": 4,
+      "appliances": [],
+      "roomName": "saw"
+    }
+  ],
+  "homeName": "my home"
+}
